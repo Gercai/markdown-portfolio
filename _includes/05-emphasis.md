@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Some Knowldege in PHP, Java, HTML, CSS*
+_creativity, enjoys making level design in Mario Maker, Drawing_
